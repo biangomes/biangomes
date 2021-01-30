@@ -1,5 +1,13 @@
 ### Sobre mim 👋
 
+![author](https://img.shields.io/badge/author-beatriznascimento-purple.svg)
+
+<p align="center">
+  <img src="banner.png" >
+</p>
+
+
+
 <!--
 **biangomes/biangomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
