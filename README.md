@@ -14,8 +14,8 @@ Hi, my name is Beatriz. I live in Rio Branco (AC), graduating in Electrical Engi
 
 - [**Medium**](https://biangomes.medium.com/)
 - [**Dev.to**](https://dev.to/biangomes)
-- [**LinkedIn:**](https://www.linkedin.com/in/beatriz-nascimento-gomes/)
-- [**Youtube:**](https://www.youtube.com/channel/UCRa5puYkgpOymA5crwLHAeg)
+- [**LinkedIn**](https://www.linkedin.com/in/beatriz-nascimento-gomes/)
+- [**Youtube**](https://www.youtube.com/channel/UCRa5puYkgpOymA5crwLHAeg)
 
 ### Tecnologias&Ferramentas | Technologies&Tools
 
