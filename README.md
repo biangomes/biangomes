@@ -4,28 +4,41 @@
   <img src="banner3.png" >
 </p>
 
-# Nice to meet you. :)
+# Hi, folks!
 
 Olá, eu me chamo Beatriz. Eu moro em Rio Branco (AC), faço faculdade de Engenharia Elétrica e Análise e Desenvolvimento de Sistemas. Atualmente, estou estagiando em desenvolvimento no Centro Universitário U:VERSE. 
 
 Hi, my name is Beatriz. I live in Rio Branco (AC), graduating in Electrical Engineering and System Development and Analysis. Nowadays, I'm working as trainee at U:VERSE.
 
+
+
 ### Comunicação | Communication
 
-- [**Medium**](https://biangomes.medium.com/)
-- [**Dev.to**](https://dev.to/biangomes)
-- [**LinkedIn**](https://www.linkedin.com/in/beatriz-nascimento-gomes/)
-- [**Youtube**](https://www.youtube.com/channel/UCRa5puYkgpOymA5crwLHAeg)
+
+
+![](https://img.shields.io/badge/Social Network-LinkedIn-informational?style=flat&logo=LinkedIn&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Articles-Medium-informational?style=flat&logo=Medium&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Channel-Youtube-informational?style=flat&logo=youtube&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Articles-Dev.to-informational?style=flat&logo=dev.to&logoColor=white&color=2bbc8a)
+
+
 
 ### Tecnologias&Ferramentas | Technologies&Tools
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+
 
 ![](https://img.shields.io/badge/Editor-intelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 
+![](https://img.shields.io/badge/Editor-visual_studio_code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
 
+![](https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
 
 
 
