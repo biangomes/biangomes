@@ -16,7 +16,7 @@ Hi, my name is Beatriz. I live in Rio Branco (AC), graduating in Electrical Engi
 
 
 
-![](https://img.shields.io/badge/Social Network-LinkedIn-informational?style=flat&logo=LinkedIn&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/SocialNetwork-LinkedIn-informational?style=flat&logo=LinkedIn&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Articles-Medium-informational?style=flat&logo=Medium&logoColor=white&color=2bbc8a)
 
