@@ -2,18 +2,13 @@
 
 
 
-<p align="center">
-  <img src="banner4.png" >
-</p>
 
 
 # Hey! Seja bem-vindo.<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Eu me chamo Beatriz e moro em Rio Branco (AC). Faço faculdade de Engenharia Elétrica e Análise e Desenvolvimento de Sistemas. Atualmente, estou estagiando em Suporte e Desenvolvimento Web no Centro Universitário U:VERSE. 
+Eu me chamo Beatriz e moro em Rio Branco (AC). Faço faculdade de Engenharia Elétrica e Análise e Desenvolvimento de Sistemas. Eu sou Analista de Serviços TI da empresa Softplan, mas tenho como hobby programar e desenvolver algumas análises e scripts em python e django. 
 
-Hi, my name is Beatriz. I live in Rio Branco (AC), graduating in Electrical Engineering and System Development and Analysis. Nowadays, I'm working as trainee at U:VERSE.
-
-
+Hi, my name is Beatriz. I live in Rio Branco (AC), graduating in Electrical Engineering and System Development and Analysis. I am TI Services Analyst at Softplan, but develop and program in Python and Django are my hobby.
 
 ### &#x270d;Comunicação | Communication
 
