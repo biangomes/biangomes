@@ -6,7 +6,7 @@
 
 # Hey! Seja bem-vindo.<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Eu me chamo Beatriz e moro em Rio Branco (AC). Faço faculdade de Análise e Desenvolvimento de Sistemas (5/6). Eu sou Analista de Serviços TI da empresa Softplan, mas tenho como hobby programar e desenvolver algumas análises e scripts em python e django. 
+Eu me chamo Beatriz e moro em Rio Branco (AC). Faço faculdade de Análise e Desenvolvimento de Sistemas (5/6). Eu sou Analista de Serviços TI da empresa Softplan e tenho como principal hobby programar e desenvolver algumas análises e scripts em python e django. 
 
 Hi, my name is Beatriz and I live in Rio Branco (AC). I course System Development and Analysis (5/6) and I work as TI Services Analyst at Softplan, but I'll publish scripts and data analysis as hobby.
 
