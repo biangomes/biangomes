@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Beatriz Gomes</h1>
-<h3 align="center">A passionate Jr. backend developer from Brazil.</h3>
+<h3 align="center">A passionate back end developer from Brazil.</h3>
 
-- 🌱 I’m currently learning **Java, Springboot, JavaScript**
+- 🌱 My actual stacks are **Java, Springboot, JavaScript and SQL**
 
 - 💬 Ask me about **Python, Django, Data Analysis**
 
