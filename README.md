@@ -3,7 +3,7 @@
 
 - 🌱 My actual stacks are **Java, Springboot, JavaScript and SQL**
 
-- 💬 Ask me about **Python, Django, Data Analysis**
+- 💬 Ask me about **Java**, **Spring Boot**, **SQL**, **Python, Django, Data Analysis**
 
 - 📫 How to reach me at [LinkedIn](https://www.linkedin.com/in/beatriz-nascimento-gomes)
 
