@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Beatriz Gomes</h1>
 <h3 align="center">A passionate back end developer from Brazil.</h3>
 
-- 🌱 My actual stacks are **Java, Springboot, JavaScript and SQL**
-
-- 💬 Ask me about **Java**, **Spring Boot**, **SQL**, **Python, Django, Data Analysis**
-
-- 📫 How to reach me at [LinkedIn](https://www.linkedin.com/in/beatriz-nascimento-gomes)
+My name is Beatriz Gomes, I'm 25 years old and I was born at Rio Branco (AC), currently living at Florianópolis (SC). I work as Java Software Developer. I'm passionat about learning, software development and I consider myself as an ambitious person.
 
 
 <h3 align="left">Languages and Tools:</h3>
