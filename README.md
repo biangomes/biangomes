@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Beatriz Gomes</h1>
 <h3 align="center">A passionate back end developer from Brazil.</h3>
 
-My name is Beatriz Gomes, I'm 25 years old and I was born at Rio Branco (AC), currently living at Florianópolis (SC). I work as Java Software Developer. I'm passionat about learning, software development and I consider myself as an ambitious person.
+My name is Beatriz Gomes, I'm 26 years old and I was born at Rio Branco (AC), currently living at Florianópolis (SC). I work as Java Software Developer. I'm passionate about learning and software development. Always pursuiting self development.
 
 
 <h3 align="left">Languages and Tools:</h3>
